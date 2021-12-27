@@ -14,9 +14,18 @@
 - ⚡ Fun fact **The language’s name isn’t about snakes, but about the popular British comedy troupe Monty Python (from the 1970s). Guido himself is a big fan of Monty Python’s Flying Circus. Being in a rather irreverent mood, he named the project `Python`**
 
 <h3 align="left">Connect with me:</h3>
-<h5>My discord - BrainFox#1234
+<h5>
+ <table>
+  <tr>
+    <td>My discord - BrainFox#1234</td>
+    <td>My telegram - @brainfox33421</td>
+  </tr>
 
-My telegram - @brainfox33421</h5>
+
+
+
+</table> 
+</h5>
 <p align="left">
 </p>
 
