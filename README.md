@@ -32,5 +32,5 @@
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brainfoxx&theme=dark" alt="brainfoxx" /></p>
   <img src="https://discord.c99.nl/widget/theme-3/862301790430429214.png"/>
- 
+ <body>
  <html>
