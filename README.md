@@ -16,6 +16,8 @@
  <table>
   <tr>
     <td>My discord - BrainFox#1234</td>
+  </tr>
+  <tr>
     <td>My telegram - @brainfox33421</td>
   </tr>
 </table> 
