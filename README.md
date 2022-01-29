@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Discord_Bot](https://github.com/BrainFoxx/discordbot)
 
-- 🌱 I’m currently learning **Python, HTML5, CSS, JS, C# and Czech ^_^**
+- 🌱 I’m currently learning **Python, JS, C# and Czech ^_^**
 
 - 📫 How to reach me **foxbrain160@gmail.com**
 
