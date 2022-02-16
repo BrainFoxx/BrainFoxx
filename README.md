@@ -15,7 +15,7 @@
 <h5>
  <table>
   <tr>
-    <td>My discord - BrainFox#1234</td>
+    <td>My discord - BrainFox#2061</td>
   </tr>
   <tr>
     <td>My telegram - @brainfox33421</td>
