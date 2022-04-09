@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, HTML5, CSS, JAVA and Czech ^_^**
 
-- 📫 How to reach me **foxbrain160@gmail.com**
+- 📫 How to reach me **own@brainfoxx.space**
 
 <h3 align="left">Connect with me:</h3>
 <h5>
