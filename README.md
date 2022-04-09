@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Discord_Bot](https://github.com/BrainFoxx/discordbot)
+- 🔭 I’m currently working on [Discord Bot](https://github.com/BrainFoxx/discordbot)
 
 - 🌱 I’m currently learning **Python, HTML5, CSS, JAVA and Czech ^_^**
 
